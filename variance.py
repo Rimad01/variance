@@ -1,7 +1,7 @@
 def Variance(a):
     #res = a/1392
     res = a/92721
-    res = round(res, 2)
+    res = round(res, 4)
     res = res * 100
     res = str(res)
     res = res + "%"
